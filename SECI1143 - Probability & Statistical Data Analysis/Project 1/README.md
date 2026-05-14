@@ -13,5 +13,5 @@
 |---|---|
 |Project Task|[View](https://github.com/XuanYee06/Y1S2_25262/blob/main/SECI1143%20-%20Probability%20%26%20Statistical%20Data%20Analysis/Project%201/Project%20Task.pdf)|
 |Google Form|[View](https://forms.gle/23n8vjuSbRPJJ4GE6)|
-|Report|[View]()|
+|Report|[View](https://github.com/XuanYee06/Y1S2_25262/blob/main/SECI1143%20-%20Probability%20&%20Statistical%20Data%20Analysis/Project%201/PSDA%20PROJECT%20REPORT.pdf)|
 |Collected Data|[View](https://github.com/XuanYee06/Y1S2_25262/blob/main/SECI1143%20-%20Probability%20%26%20Statistical%20Data%20Analysis/Project%201/UTM%20Students'%20BMI%20Survey%20(Responses).xlsx)|
